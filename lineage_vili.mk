@@ -14,7 +14,7 @@ DERPFEST_BUILD_TYPE := Official
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Gapps Flag
-WITH_GAPPS := true
+WITH_GMS := true
 
 # Extras
 TARGET_FACE_UNLOCK_SUPPORTED := true
