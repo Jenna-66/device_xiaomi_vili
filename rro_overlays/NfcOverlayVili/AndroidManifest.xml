@@ -4,8 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.nfc.overlay.vili">
-    <overlay
-        android:targetName="NfcCustomization"
-        android:targetPackage="com.android.nfc" />
+          package="com.android.nfc.overlay.vili">
+    <overlay android:targetPackage="com.android.nfc"
+             android:targetName="NfcCustomization" />
 </manifest>

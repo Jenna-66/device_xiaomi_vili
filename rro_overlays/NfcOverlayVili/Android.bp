@@ -5,5 +5,5 @@
 
 runtime_resource_overlay {
     name: "NfcOverlayVili",
-    device_specific: true
+    device_specific: true,
 }
