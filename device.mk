@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
 
 # MiuiCamera
 $(call inherit-product-if-exists, device/xiaomi/miuicamera-vili/device.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
