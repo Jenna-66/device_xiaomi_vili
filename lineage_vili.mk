@@ -39,3 +39,7 @@ TARGET_INCLUDES_Lineage_Health := true
 TARGET_INCLUDES_Torch_Light_Control := true
 TARGET_INCLUDES_Webcam := true
 
+# crDroid Flags
+# Face unlock 
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
